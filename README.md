@@ -1,1 +1,3 @@
-# Milk-Tea-Shop-Simulator-Mod-Manager
+#奶茶店模拟器模块管理器
+由第三方制作的奶茶店模拟器模组管理工具
+当前仓库仅供实现检查更新
